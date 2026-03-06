@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Herbicide_Efficacy_Analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Shruti
+    family-names: Khanna
+    email: shrkhanna@ucdavis.edu
+    affiliation: California Department of Fish and Wildlife
+    orcid: 'https://orcid.org/0000-0003-1724-248X'
+  - given-names: Jereme
+    family-names: Gaeta
+    orcid: 'https://orcid.org/0000-0002-6925-6907'
+    affiliation: California Department of Fish and Wildlife
+    email: jereme.gaeta@wildlife.ca.gov
+abstract: >-
+  The code and data provided in this repository are in
+  support of the following manuscript submitted to
+  "Environmental Management":
+
+  Khanna, S., J. W. Gaeta, K. Hoffmann, & S. L. Ustin,
+  Multi-year regional-scale efficacy comparison of two
+  herbicides for treatment of invasive floating aquatic
+  vegetation in a California estuary. Submitted to
+  Environmental Management.
+keywords:
+  - glyphosate
+  - floating aquatic vegetation
+  - '2,4-D'
+  - remote sensing
+license: MIT
+version: 1.0.0
+date-released: '2026-03-06'
