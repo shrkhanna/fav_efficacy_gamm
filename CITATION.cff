@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Herbicide_Efficacy_Analysis
+title: Glyphosate and 2,4-D Herbicide Efficacy Analysis for Treatment of Floating Aquatic Vegetation in the Sacramento - San Joaquin Delta
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -19,15 +19,8 @@ authors:
     affiliation: California Department of Fish and Wildlife
     email: jereme.gaeta@wildlife.ca.gov
 abstract: >-
-  The code and data provided in this repository are in
-  support of the following manuscript submitted to
-  "Environmental Management":
-
-  Khanna, S., J. W. Gaeta, K. Hoffmann, & S. L. Ustin,
-  Multi-year regional-scale efficacy comparison of two
-  herbicides for treatment of invasive floating aquatic
-  vegetation in a California estuary. Submitted to
-  Environmental Management.
+  Code and data in support of the following manuscript: Multi-year regional-scale efficacy comparison of two
+  herbicides for treatment of invasive floating aquatic vegetation in a California estuary.
 keywords:
   - glyphosate
   - floating aquatic vegetation
